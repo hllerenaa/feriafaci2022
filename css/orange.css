@@ -2367,9 +2367,11 @@ a.header-button {
 }
 
 #hero-2 {
-    background-image: url(/logos/fondo.png);
-    padding-top: 180px;
-    padding-bottom: 60px;
+    /*padding-top: 180px;*/
+    /*padding-bottom: 60px;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #hero-3 {
@@ -6898,6 +6900,4 @@ nav a#pull {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
 }
