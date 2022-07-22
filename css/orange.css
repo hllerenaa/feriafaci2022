@@ -1011,9 +1011,9 @@ ul {
 
 .btn-primary,
 .white-color .btn-primary {
-    color: #fff;
-    background-color: #ff4500;
-    border-color: #ff4500;
+    color: #707070;
+    /*background-color: #ff4500;*/
+    border-color: #3c9cb6;
 }
 
 .btn-tra-white,
@@ -1146,9 +1146,9 @@ ul {
 
 .btn.tra-black-hover:hover,
 .white-color .btn.tra-black-hover:hover {
-    color: #333 !important;
+    color: #325ad2 !important;
     background-color: transparent;
-    border-color: #333;
+    border-color: #325ad2;
 }
 
 .btn.blue-hover:hover,
@@ -1212,7 +1212,7 @@ ul {
 /*------------------------------------------*/
 
 .btn:focus {
-    color: #fff;
+    color: #325ad2;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
@@ -2681,7 +2681,7 @@ a.header-button {
 /*------------------------------------------*/
 
 .hero-2-txt p {
-    padding-right: 25%;
+    /*padding-right: 25%;*/
 }
 
 .hero-9-txt p {

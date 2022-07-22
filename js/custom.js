@@ -14,7 +14,7 @@
 			loader.fadeOut();
 			preloader.delay(400).fadeOut('slow');
 				
-		$(window).stellar({});
+		// $(window).stellar({});
 		
 	});
 
