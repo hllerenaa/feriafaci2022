@@ -1524,42 +1524,42 @@ span.id-color {
 }
 
 .noto-font-300 {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 300;
 }
 
 .noto-font-400 {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 400;
 }
 
 .noto-font-500 {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 500;
 }
 
 .noto-font-700 {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 700;
 }
 
 .noto-font-900 {
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 900;
 }
 
-.roboto-font-300 {
-    font-family: 'Roboto Condensed', sans-serif;
+.Poppins-font-300 {
+    font-family: 'Poppins Condensed', sans-serif;
     font-weight: 400;
 }
 
-.roboto-font-400 {
-    font-family: 'Roboto Condensed', sans-serif;
+.Poppins-font-400 {
+    font-family: 'Poppins Condensed', sans-serif;
     font-weight: 400;
 }
 
-.roboto-font-700 {
-    font-family: 'Roboto Condensed', sans-serif;
+.Poppins-font-700 {
+    font-family: 'Poppins Condensed', sans-serif;
     font-weight: 700;
 }
 
@@ -4875,9 +4875,10 @@ a.header-button {
 
 .blog-post-txt h5,
 .sblog-post-txt h4.h4-xs {
-    letter-spacing: -0.5px;
-    margin-top: 8px;
-    margin-bottom: 30px;
+    /*letter-spacing: -0.5px;*/
+    /*margin-top: 8px;*/
+    margin-bottom: 32px;
+    font-size: 16px;
 }
 
 .blog-post p {
@@ -5260,7 +5261,7 @@ a.share-ico.ico-pinterest {
 .comment-form .loading {
     color: #666;
     font-size: 17px;
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 700;
 }
 
@@ -5381,7 +5382,7 @@ a.share-ico.ico-pinterest {
 #newsletter-1 label.error {
     color: #fff;
     font-size: 18px;
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 500;
     line-height: 1;
     margin-top: 20px;
